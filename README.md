@@ -2,7 +2,7 @@
 A structured AI-powered workflow for building conversion-focused product landing pages using prompt engineering, Gemini, and Lovable.
 
 
-# 🚀 AI-Powered Product Landing Page Builder
+#  AI-Powered Product Landing Page Builder
 
 ### A Prompt Engineering Workflow for High-Converting Product Landing Pages
 
@@ -14,7 +14,7 @@ The project combines **ChatGPT, Gemini, and Lovable** into a modular workflow fo
 
 ---
 
-## 📌 Project Overview
+##  Project Overview
 
 Creating a landing page is not just about making a website look attractive. It requires a clear understanding of the target audience, customer pain points, product positioning, user experience, and conversion goals.
 
