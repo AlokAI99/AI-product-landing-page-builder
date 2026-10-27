@@ -1,6 +1,6 @@
 # Master Base Prompt — Conversion-Focused Landing Page Strategy
 
-## 1. Role and Objective
+1. Role and Objective
 
 Act as a senior product marketing strategist, conversion rate optimization (CRO) specialist, UX/UI designer, mobile experience expert, and landing page copywriter.
 
