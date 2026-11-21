@@ -12,7 +12,7 @@ An AI-powered workflow that transforms a product idea into a structured, convers
 
 The project combines **ChatGPT, Gemini, and Lovable** into a modular workflow for product discovery, landing page planning, visual design, implementation, and conversion optimization.
 
----
+
 
 ##  Project Overview
 
